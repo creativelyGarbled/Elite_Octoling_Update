@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "octoboy_portrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				106,
+				-165
+			],
+			"loop_offsets": [
+				106,
+				-165
+			],
+			"anim": "talk",
+			"idle_name": "octoboy_portrait octoboy_portrait_1",
+			"loop_name": "octoboy_portrait octoboy_portrait_1"
+		},
+		{
+			"loop_name": "octoboy_portrait octoboy_portrait_2",
+			"idle_offsets": [
+				115,
+				-169
+			],
+			"idle_name": "octoboy_portrait octoboy_portrait_2",
+			"anim": "talk2",
+			"loop_offsets": [
+				115,
+				-169
+			]
+		}
+	]
+}

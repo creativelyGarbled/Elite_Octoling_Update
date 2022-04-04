@@ -1,0 +1,39 @@
+{
+	"storyName": "Stay Fresh",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tide-Goes-Out",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"SplatterScope",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Week 2 Splatoon"
+}

@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "ezili_portraits",
+	"animations": [
+		{
+			"idle_offsets": [
+				-58,
+				-4
+			],
+			"loop_offsets": [
+				-58,
+				-4
+			],
+			"anim": "talk",
+			"idle_name": "ezili_portraits ezili_portrait_1",
+			"loop_name": "ezili_portraits ezili_portrait_1"
+		},
+		{
+			"loop_offsets": [
+				-58,
+				-4
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				-58,
+				-4
+			],
+			"loop_name": "ezili_portraits ezili_portrait_2",
+			"idle_name": "ezili_portraits ezili_portrait_2"
+		},
+		{
+			"loop_offsets": [
+				-70,
+				20
+			],
+			"anim": "thought",
+			"idle_offsets": [
+				-70,
+				20
+			],
+			"loop_name": "ezili_portraits ezili_portrait_3",
+			"idle_name": "ezili_portraits ezili_portrait_3"
+		},
+		{
+			"loop_name": "ezili_portraits ezili_portrait_4",
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"idle_name": "ezili_portraits ezili_portrait_4",
+			"anim": "angry_talk",
+			"loop_offsets": [
+				-30,
+				0
+			]
+		},
+		{
+			"loop_name": "ezili_portraits ezili_portrait_5",
+			"idle_offsets": [
+				-30,
+				0
+			],
+			"idle_name": "ezili_portraits ezili_portrait_5",
+			"anim": "angry_stare",
+			"loop_offsets": [
+				-30,
+				0
+			]
+		}
+	]
+}

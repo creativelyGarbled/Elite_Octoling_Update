@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-71,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mad_right"
+		},
+		{
+			"offsets": [
+				-44,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mad_down"
+		},
+		{
+			"offsets": [
+				-147,
+				225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mad_up"
+		},
+		{
+			"offsets": [
+				56,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mad_left"
+		},
+		{
+			"offsets": [
+				56,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT_alt",
+			"indices": [],
+			"name": "al_left"
+		},
+		{
+			"offsets": [
+				-70,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT_alt",
+			"indices": [],
+			"name": "al_right"
+		},
+		{
+			"offsets": [
+				-43,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN_alt",
+			"indices": [],
+			"name": "al_down"
+		},
+		{
+			"offsets": [
+				-147,
+				225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP_alt",
+			"indices": [],
+			"name": "al_up"
+		},
+		{
+			"offsets": [
+				0,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mad_idle"
+		},
+		{
+			"offsets": [
+				1,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle_alt",
+			"indices": [],
+			"name": "al_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadEzili",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "ezili-mad",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		82,
+		230
+	],
+	"camera_position": [
+		130,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

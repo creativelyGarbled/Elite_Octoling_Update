@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "splatoon",
+		"player1": "bf-agent",
+		"player2": "ezili",
+		"player3": null,
+		"events": [
+			[
+				44571.4285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"eziligun"
+					]
+				]
+			],
+			[
+				47892.8571428572,
+				[
+					[
+						"Change Character",
+						"1",
+						"ezili2"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"exit",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-zapfish",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Octo Amazone"
+	}
+}

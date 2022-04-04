@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				100,
+				-160
+			],
+			"idle_offsets": [
+				100,
+				-160
+			],
+			"loop_name": "inkling_portraits inkling_portrait_1",
+			"idle_name": "inkling_portraits inkling_portrait_1"
+		},
+		{
+			"loop_name": "inkling_portraits inkling_portrait_3",
+			"idle_offsets": [
+				100,
+				-160
+			],
+			"idle_name": "inkling_portraits inkling_portrait_3",
+			"anim": "talk2",
+			"loop_offsets": [
+				100,
+				-160
+			]
+		},
+		{
+			"loop_name": "inkling_portraits inkling_portrait_2",
+			"idle_offsets": [
+				100,
+				-160
+			],
+			"idle_name": "inkling_portraits inkling_portrait_2",
+			"anim": "hurt",
+			"loop_offsets": [
+				100,
+				-160
+			]
+		}
+	],
+	"image": "inkling_portraits"
+}

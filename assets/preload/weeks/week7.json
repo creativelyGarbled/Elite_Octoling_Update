@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["On-The-Hook", "ezili", [89, 52, 104]],
+		["Octo-Amazone", "ezili", [89, 52, 104]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+
+	"weekBackground": "stage",
+
+	"storyName": "Don't Get Cooked",
+	"weekBefore": "week6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

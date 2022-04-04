@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-70,
+				-70
+			],
+			"idle_offsets": [
+				-70,
+				-70
+			],
+			"loop_name": "marie_portraits marie_portrait_1",
+			"idle_name": "marie_portraits marie_portrait_1"
+		},
+		{
+			"loop_name": "marie_portraits marie_portrait_2",
+			"idle_offsets": [
+				-70,
+				-70
+			],
+			"idle_name": "marie_portraits marie_portrait_2",
+			"anim": "talk2",
+			"loop_offsets": [
+				-70,
+				-70
+			]
+		}
+	],
+	"image": "marie_portraits"
+}

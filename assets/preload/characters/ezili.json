@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "p1_idle"
+		},
+		{
+			"offsets": [
+				49,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "p1_left"
+		},
+		{
+			"offsets": [
+				-20,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "p1_right"
+		},
+		{
+			"offsets": [
+				68,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "p1_up"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "p1_down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ezili",
+	"position": [
+		-100,
+		-100
+	],
+	"healthicon": "ezili",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		50,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

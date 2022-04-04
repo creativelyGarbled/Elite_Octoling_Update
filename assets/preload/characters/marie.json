@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Marie idle dance"
+		},
+		{
+			"offsets": [
+				5,
+				7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Marie Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				46,
+				94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Marie Sing Note UP"
+		},
+		{
+			"offsets": [
+				78,
+				46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Marie Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-74,
+				49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Marie Sing Note RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				46,
+				93
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Marie Sing Note UP",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				6,
+				7
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Marie Sing Note DOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				77,
+				47
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Marie Sing Note LEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-79,
+				40
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Marie Sing Note RIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Marie_sheet",
+	"position": [
+		10,
+		-20
+	],
+	"healthicon": "marie",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		195,
+		58
+	],
+	"camera_position": [
+		0,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

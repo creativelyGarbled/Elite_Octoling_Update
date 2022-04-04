@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="callie_bop.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="callie_bop0000" x="9" y="9" width="176" height="357" frameX="0" frameY="-4" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0001" x="9" y="9" width="176" height="357" frameX="0" frameY="-4" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0002" x="190" y="9" width="175" height="359" frameX="0" frameY="-2" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0003" x="190" y="9" width="175" height="359" frameX="0" frameY="-2" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0004" x="9" y="373" width="175" height="360" frameX="0" frameY="-1" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0005" x="9" y="373" width="175" height="360" frameX="0" frameY="-1" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0006" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0007" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0008" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0009" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0010" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0011" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0012" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0013" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0014" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+	<SubTexture name="callie_bop0015" x="189" y="373" width="175" height="361" frameX="0" frameY="0" frameWidth="176" frameHeight="361"/>
+</TextureAtlas>

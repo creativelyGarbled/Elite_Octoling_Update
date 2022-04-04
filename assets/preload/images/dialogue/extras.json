@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				50,
+				-70
+			],
+			"idle_offsets": [
+				50,
+				-70
+			],
+			"loop_name": "extras_portraits extras_portrait_1",
+			"idle_name": "extras_portraits extras_portrait_1"
+		},
+		{
+			"loop_name": "extras_portraits extras_portrait_2",
+			"idle_offsets": [
+				50,
+				-70
+			],
+			"idle_name": "extras_portraits extras_portrait_2",
+			"anim": "talk2",
+			"loop_offsets": [
+				50,
+				-70
+			]
+		}
+	],
+	"image": "extras_portraits"
+}

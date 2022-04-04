@@ -1,0 +1,4 @@
+:marie: Hello
+:bf:calm: This is a placeholder dialogue
+:marie: It sure is!
+:bf:calm: Gaming
